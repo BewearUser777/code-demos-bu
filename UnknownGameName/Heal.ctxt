@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Heal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Heal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ description\ weight\ heal
+comment1.target=Heal(java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=name\ description\ weight\ heal\ price
+comment2.target=Heal(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment3.params=
+comment3.target=int\ getHeal()
+comment4.params=h
+comment4.target=void\ setHeal(int)
+numComments=5
