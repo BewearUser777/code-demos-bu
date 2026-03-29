@@ -10,7 +10,7 @@ Java
 
 
 ## Standalone Scripts
-- "project_ball_saver_1.cpp" - a simple ball screensaver
+- "project_ball_saver_1.cpp" - a simple ball screensaver (DISCLAIMER: uses std::thread instead of delta time)
 
 
 ## UnknownGameName
