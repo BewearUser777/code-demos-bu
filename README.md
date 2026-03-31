@@ -4,9 +4,9 @@ Most of these are just demos and are not intended to be officially used.
 
 
 ## Languages
-C++
-Python
-Java
+- C++
+- Python
+- Java
 
 
 ## Standalone Scripts
