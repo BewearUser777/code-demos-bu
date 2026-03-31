@@ -10,8 +10,12 @@ Java
 
 
 ## Standalone Scripts
+- "project_game_menu.cpp" - a simple game menu prototype ("OPTIONS" button currently does not have any function and has yet to be finished)
 - "project_ball_saver_1.cpp" - a simple ball screensaver (DISCLAIMER: uses std::thread instead of delta time)
+- NOTE: in the game menu program, the line containing sf::Font at the very top uses the system font of Mac. For Windows and other devices, refer to [this video](https://www.youtube.com/watch?v=rWwpsw_CR1E&list=PLkX_-fCkj2di5WrSIBE66j5Yq0xmHvpAv&index=17) for help.
 
+## How to run C++ SFML
+Running an SFML program in any device is very difficult as there are only a small amount of online tutorials and those that exist do not really explain the setup too well. I do not know how to properly set up SFML on Mac or Linux, but [this SFML 3.0 tutorial for Windows](https://www.youtube.com/watch?v=RHrU3I1nsEI&list=PLkX_-fCkj2di5WrSIBE66j5Yq0xmHvpAv&index=1) may be useful.
 
 ## UnknownGameName
 "UnknownGameName" is a text-based Java game I created for my final project for my AP Computer Science A class back in 12th grade, though with a SaveState 
