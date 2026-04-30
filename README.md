@@ -10,6 +10,7 @@ Most of these are just demos and are not intended to be officially used.
 
 
 ## Standalone Scripts
+- "matrixproduct.cpp" - a command-line matrix calculator program that performs matrix addition, multiplication, and determinant calculation of square matrices
 - "project_game_menu.cpp" - a simple game menu prototype ("OPTIONS" button currently does not have any function and has yet to be finished)
 - "project_ball_saver_1.cpp" - a simple ball screensaver (DISCLAIMER: uses std::thread instead of delta time)
 - NOTE: in the game menu program, the line containing sf::Font at the very top uses the system font of Mac. For Windows and other devices, refer to [this video](https://www.youtube.com/watch?v=rWwpsw_CR1E&list=PLkX_-fCkj2di5WrSIBE66j5Yq0xmHvpAv&index=17) for help.
