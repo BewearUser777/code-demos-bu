@@ -19,8 +19,10 @@ Most of these are just demos and are not intended to be officially used.
 Running an SFML program in any device is very difficult as there are only a small amount of online tutorials and those that exist do not really explain the setup too well. I do not know how to properly set up SFML on Mac or Linux, but [this SFML 3.0 tutorial for Windows](https://www.youtube.com/watch?v=RHrU3I1nsEI&list=PLkX_-fCkj2di5WrSIBE66j5Yq0xmHvpAv&index=1) may be useful.
 
 ## UnknownGameName
-"UnknownGameName" is a text-based Java game I created for my final project for my AP Computer Science A class back in 12th grade, though with a SaveState 
-class that no longer exists as of 01/23/2026.
+"UnknownGameName" is a text-based Java game I created for my final project for my AP Computer Science A class back in 12th grade, though with a SaveState class that no longer exists as of 01/23/2026.
+
+## MAINE
+Maine is an AI that I started around October-December 2021, although I did not have the time and resources to build a full-scale language model at the time. Currently, Maine is a 250M parameter model at its pre-training stage and may be expanded in the future depending on GPU limitations and hardware/software advancements.
 
 ### Project Structure
 - "Main.java" - calls the runGame() function from the Commands class to start the game
