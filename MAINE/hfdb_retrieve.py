@@ -206,7 +206,7 @@ def keras_stream_generator(iterable_ds, batch_size=BATCH_SIZE, max_tokens=5_080_
             return  # stop once budget is hit
 
         x = np.array(sample["input_ids"], dtype=np.int32)
-        total_tokens += int((x != 0).sum())  # count only real (non-padding) tokens
+        total_tokens += int((x != 50256).sum())  # count only real (non-padding) tokens
 
         batch_x.append(x)
         batch_y.append(np.array(sample["labels"], dtype=np.int32))
