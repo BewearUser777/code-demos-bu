@@ -29,11 +29,6 @@ Running an SFML program in any device is very difficult as there are only a smal
 
 
 
-## MAINE
-Maine is an AI that I started around October-December 2021, although I did not have the time and resources to build a full-scale language model at the time. Currently, Maine is a 250M parameter model at its pre-training stage and may be expanded in the future depending on GPU limitations and hardware/software advancements.
-
-
-
 ### Project Structure
 - "Main.java" - calls the runGame() function from the Commands class to start the game
 - "Commands.java" - all of the game logic, progression, and player commands is here
@@ -51,3 +46,8 @@ Maine is an AI that I started around October-December 2021, although I did not h
 - Locate the UnknownGameName folder and click "Open Project."
 - Right click the Main class and click "Compile."
 - Right click Main class again and click "void main(String[] args)."
+
+
+
+## MAINE
+Maine is an AI that I started around October-December 2021, although I did not have the time and resources to build a full-scale language model at the time and only began building Maine with Keras transformer architecture starting around July 2026. As I do not currently have enough knowledge on low-level Computer Science concepts and AI/ML methods, I mostly used YouTube tutorials, AI help, and internet research to build the pre-training programs of Maine, though I am fully aware of how each line of code functions. Currently, Maine is a 250M parameter model at its pre-training stage and may be expanded in the future depending on hardware/software advancements.
